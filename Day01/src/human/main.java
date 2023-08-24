@@ -9,5 +9,8 @@ public class main {
 		student1.speak();
 		student1.learn();
 		
+		Tutor tutor1 = new Tutor();
+		tutor1.speak();
+		tutor1.teach();
 	}
 }
