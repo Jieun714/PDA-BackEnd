@@ -1,10 +1,10 @@
 package human;
 
-public class human {
+public class Human {
 	int age;
 	String name;
 	
-	public speak() {
-		System.out.println();
+	public void speak() {
+		System.out.println("human speak()");
 	}
 }
