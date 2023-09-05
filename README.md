@@ -12,3 +12,4 @@
 | Day 06 <br/> (2023.08.31.목) | 디자인패턴(State) - HashMap과 enum 사용, AWS Cloud Architecture(scale-up, scale-out, stateful), AWS Security |
 | Day 07 <br/> (2023.09.01.금) | AWS(VPC, VPN, 인스턴스 패밀리, 보안그룹, Peering) 이론 및 실습, CIDR 계산법 |
 | Day 08 <br/> (2023.09.04.월) | AWS(ELB, NLB, RDS, MySQL) 이론 및 실습, 데이터베이스 인증 설정(암호, IAM 데이터베이스 인증) |
+| Day 09 <br/> (2023.09.05.화) | MySQL(DISTINCT, LIKE, UNIQUE, Primary Key, Foreign Key, EXPLAIN, JOIN) 이론 및 실습 |
